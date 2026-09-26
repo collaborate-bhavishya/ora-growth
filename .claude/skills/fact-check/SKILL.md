@@ -19,3 +19,5 @@ Append to the draft:
 | Claim | Status | Source | Note |
 ```
 Fix ❌ by removing or rewording the claim (never by adding an unsourced fact). Set `status: fact-checked` only when no ❌ remain.
+
+If source pages can't be fetched, re-confirm each figure/quote with WebSearch and list anything not re-confirmed under "Human must verify before approval".
